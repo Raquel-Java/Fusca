@@ -19,4 +19,21 @@ Postgres (Banco de dados)
 
 A aplicação faz cominicação com uma A.P.I rest em java disponivel no servidor.
 
+# Tela de Login
+
 ![login.jpeg](/imagens/login.jpeg){.align-center}
+
+# modelo de Orcamento Customizado
+
+![modelo-orcamento-customizado.jpeg](/imagens/modelo-orcamento-customizado.jpeg){.align-center}
+
+# Tela Menu
+
+![menu.jpeg](/imagens/menu.jpeg){.align-center}
+
+# Gerador de Orcamento
+
+![gerar-orcamento-1.jpeg](/imagens/gerar-orcamento-1.jpeg){.align-center}
+
+
+
